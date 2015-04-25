@@ -20,7 +20,7 @@ if sys.version[0] == "3":
 
 # Set up variables.
 num = 8884 # Wordlist is 8884 words.
-fileloc = os.path.expanduser('~/bin/python/Password_Generator/wordlist.txt')  # Open file.
+fileloc = os.path.expanduser('./wordlist.txt')  # Open file.
 
  
 # def der(*args):
